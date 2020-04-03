@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "async": "^0.9.0",
-    "mapnik": "^3.1.2"
+    "mapnik": "4.4.0"
   }
 }
